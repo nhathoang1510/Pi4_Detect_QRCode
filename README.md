@@ -8,6 +8,7 @@
 1. [RASPIAN OS](https://www.raspberrypi.com/software/operating-systems/)
 2. [OPENCV](https://opencv.org/)
 3. [LIBRARY DECODE QR CODE - PYZBAR](https://github.com/NaturalHistoryMuseum/pyzbar)
+4. [GOOGLE FIRBASE](https://firebase.google.com/)
 ## Features of Project
 - Detect QR Code using Pi 4 and send data decode to realtime database.
 ## Project Contributors
